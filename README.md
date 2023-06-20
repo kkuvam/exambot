@@ -34,9 +34,9 @@ The chatbot was developed and deployed as a functional prototype and used during
    ```bash
         pip install -r requirements.txt
     ```
-3. Run the bots (chat_bot.py)
+3. Run the bots (exambot.py)
     ```bash
-        streamlit run chat_bot.py
+        streamlit run exambot.py
     ```
 
 ---
